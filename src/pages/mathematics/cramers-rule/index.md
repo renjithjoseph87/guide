@@ -3,13 +3,10 @@ title: Cramers Rule
 ---
 ## Cramers Rule
 
-This is a stub. <a href='https://github.com/freecodecamp/guides/tree/master/src/pages/mathematics/cramers-rule/index.md' target='_blank' rel='nofollow'>Help our community expand it</a>.
-
-<a href='https://github.com/freecodecamp/guides/blob/master/README.md' target='_blank' rel='nofollow'>This quick style guide will help ensure your pull request gets accepted</a>.
-
-<!-- The article goes here, in GitHub-flavored Markdown. Feel free to add YouTube videos, images, and CodePen/JSBin embeds  -->
-
+In linear algebra, Cramer's rule is an explicit formula for the solution of a system of linear equations with as many equations as unknowns, valid whenever the system has a unique solution.
+![alt text](http://www.saddlebackmath.com/_/rsrc/1468871459428/home/cramer-s-rule/Notes%2017.jpg)
 #### More Information:
 <!-- Please add any articles you think might be helpful to read before writing the article -->
-
+*http://www.saddlebackmath.com/home/cramer-s-rule
+*https://en.wikipedia.org/wiki/Cramer%27s_rule
 
