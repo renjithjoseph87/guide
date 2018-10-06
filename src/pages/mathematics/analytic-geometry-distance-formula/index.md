@@ -1,15 +1,12 @@
----
+
 title: Analytic Geometry Distance Formula
 ---
 ## Analytic Geometry Distance Formula
 
-This is a stub. <a href='https://github.com/freecodecamp/guides/tree/master/src/pages/mathematics/analytic-geometry-distance-formula/index.md' target='_blank' rel='nofollow'>Help our community expand it</a>.
+In a 2-D plane, let the two points be (x1,y1) and (x2,y2).Then, the distance between them is given by the formula
+![alt text](http://academic.sun.ac.za/mathed/shoma/assets/MATUNIT12_IMG16.gif)
 
-<a href='https://github.com/freecodecamp/guides/blob/master/README.md' target='_blank' rel='nofollow'>This quick style guide will help ensure your pull request gets accepted</a>.
-
-<!-- The article goes here, in GitHub-flavored Markdown. Feel free to add YouTube videos, images, and CodePen/JSBin embeds  -->
-
-#### More Information:
-<!-- Please add any articles you think might be helpful to read before writing the article -->
+##More Information
+http://academic.sun.ac.za/mathed/shoma/MATUNIT12_05.htm
 
 
