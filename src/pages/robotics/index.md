@@ -3,7 +3,7 @@ title: Robotics
 ---
 ## Robotics
 
-Robotics is about the systems that make up robots.
+Robotics is about the systems that make up robots.It is an interdisciplinary branch of engineering comprising of mechanical engineering,electrical engineering,electronics and computer engineering,to name a few. Robotics deals with design, fabrication and operation of robots. There are different branches of robotics dealing with manipulators, Underwater vehicles, drones, artificial intelligence and many more. 
 
 ### Overview
 
